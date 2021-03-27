@@ -20,6 +20,8 @@ const routes = [
   }
 ]
 
+//npm install -g firebase-tools
+
 const router = new VueRouter({
   mode: 'history',
   base: process.env.BASE_URL,
